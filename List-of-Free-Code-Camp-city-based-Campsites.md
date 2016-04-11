@@ -1,6 +1,6 @@
-If your city isn't listed here, you should [[create a Campsite for your city|How-to-create-a-Campsite-for-your-city]].
+If your city isn't listed here, you should [create a Campsite for your city](How-to-create-a-Campsite-for-your-city).
 
-[![Google Map of Campsites](google-campsites-map.png)](https://www.google.com/maps/d/u/0/embed?mid=zH0hxoM17_fk.kDBMlxfk0BZ8)
+[![Google Map of Campsites](https://raw.githubusercontent.com/FreeCodeCamp/wiki/master/google-campsites-map.png)](https://www.google.com/maps/d/u/0/embed?mid=zH0hxoM17_fk.kDBMlxfk0BZ8)
 [Edit Map](https://www.google.com/maps/d/edit?mid=zH0hxoM17_fk.kDBMlxfk0BZ8)
 
 - Afghanistan
@@ -94,6 +94,7 @@ If your city isn't listed here, you should [[create a Campsite for your city|How
   - [Caruaru](https://www.facebook.com/groups/free.code.camp.caruaru/)
   - [Caxias do Sul](https://www.facebook.com/groups/free.code.camp.caxias.do.sul/)
   - [Chapeco](https://www.facebook.com/groups/free.code.camp.chapeco/)
+  - [Cuiabá](https://www.facebook.com/groups/free.code.camp.cuiaba/)
   - [Curitiba](https://www.facebook.com/groups/free.code.camp.curitiba/)
   - [Engenheiro Coelho](https://www.facebook.com/groups/free.code.camp.engenheiro.coelho/)
   - [Florianopolis](https://www.facebook.com/groups/free.code.camp.florianopolis/)
@@ -238,6 +239,7 @@ If your city isn't listed here, you should [[create a Campsite for your city|How
   - [Dubrovnik](https://www.facebook.com/groups/free.code.camp.dubrovnik/) 
   - [Karlovac](https://www.facebook.com/groups/free.code.camp.karlovac/)
   - [Rijeka](https://www.facebook.com/groups/542662595902378/)
+  - [Split](https://www.facebook.com/groups/free.code.camp.split/)
   - [Varazdin](https://www.facebook.com/groups/free.code.camp.varazdin)
   - [Zagreb](https://www.facebook.com/groups/free.code.camp.zagreb/)
 - Cuba
@@ -261,12 +263,14 @@ If your city isn't listed here, you should [[create a Campsite for your city|How
 - Ecuador
   - [Cuenca](https://www.facebook.com/groups/free.code.camp.cuenca/)
   - [Guayaquil](https://www.facebook.com/groups/free.code.camp.guayaqui.ecuador/)
+  - [Santo Domingo](https://www.facebook.com/groups/free.code.camp.santo.domingo.ecuador/)
   - [Quito](https://www.facebook.com/groups/free.code.camp.quito/)    
 - Egypt
   - [Al-Mansoura](https://www.facebook.com/groups/free.code.camp.almansoura/)    
   - [Alexandria](https://www.facebook.com/groups/free.code.camp.alex/)
   - [Asyut](https://www.facebook.com/groups/free.code.camp.assiut/)
   - [Cairo](https://www.facebook.com/groups/free.code.camp.cairo/)
+  - [Damanhur](https://www.facebook.com/groups/free.code.camp.damanhur)
   - [Sharqiyah](https://www.facebook.com/groups/free.code.camp.sharkia/)
   - [Tanta](https://www.facebook.com/groups/free.code.camp.tanta/)
 - El Salvador
@@ -401,6 +405,7 @@ If your city isn't listed here, you should [[create a Campsite for your city|How
   - Andhra Pradesh
     - [Bapatla](https://www.facebook.com/groups/free.code.camp.bapatla/)
     - [Guntur](https://www.facebook.com/groups/free.code.camp.guntur/)
+    - [Nellore](https://www.facebook.com/groups/free.code.camp.your.city.nellore/)
     - [Tirupathi](https://www.facebook.com/groups/free.code.camp.tirupathi/)
     - [Vijayawada](https://www.facebook.com/groups/free.code.camp.your.vijayawada/)
     - [Vizag](https://www.facebook.com/groups/free.code.camp.vizag/)
@@ -413,6 +418,7 @@ If your city isn't listed here, you should [[create a Campsite for your city|How
     - [Patna](http://www.facebook.com/groups/free.code.camp.patna)
     - [Siwan](https://www.facebook.com/groups/free.code.camp.Siwan/)
   - Chattisgarh
+    - [Bilaspur](https://www.facebook.com/groups/free.code.camp.bilaspur/)
     - [Raipur](https://www.facebook.com/groups/free.code.camp.raipur/)
   - [Delhi](https://www.facebook.com/groups/free.code.camp.delhi/)
   - Gujarat
@@ -428,6 +434,7 @@ If your city isn't listed here, you should [[create a Campsite for your city|How
     - [Gurgaon](https://www.facebook.com/groups/free.code.camp.gurgaon/)
     - [Noida](https://www.facebook.com/groups/free.code.camp.noida/)
   - Himachal Pradesh
+    - [Dharamshala](https://www.facebook.com/groups/free.code.camp.dharamshala/) 
     - [Shimla](https://www.facebook.com/groups/free.code.camp.shimla/)
   - Jammu & Kashmir
     - [Jammu](https://www.facebook.com/groups/free.code.camp.jammu1/)
@@ -450,6 +457,7 @@ If your city isn't listed here, you should [[create a Campsite for your city|How
     - [Aurangabad](https://www.facebook.com/groups/freecodecampauranagabad/)
     - [Jalgaon](https://www.facebook.com/groups/free.code.camp.jalgaon/)
     - [Mumbai](https://www.facebook.com/groups/frre.code.camp.mumbai/)
+    - [Nagpur](https://www.facebook.com/groups/free.code.camp.nagpore/)
     - [Nashik](https://www.facebook.com/groups/free.code.camp.your.nashik/)
     - [Navi Mumbai](https://www.facebook.com/groups/free.code.camp.navi.mumbai/)
     - [Pune](https://www.facebook.com/groups/free.code.camp.pune/)
@@ -510,6 +518,7 @@ If your city isn't listed here, you should [[create a Campsite for your city|How
   - [Surabaya](https://www.facebook.com/groups/free.code.camp.surabaya.new/)
   - [Yogyakarta](https://www.facebook.com/groups/free.code.camp.yogyakarta/)
 - Iran
+  - [Hamadan](https://www.facebook.com/groups/free.code.camp.hamedan)
   - [Isfahan](https://www.facebook.com/groups/free.code.camp.isfahan/)
   - [Tabriz](https://www.facebook.com/groups/free.code.camp.tabriz/)
   - [Tehran](https://www.facebook.com/groups/free.code.camp.tehran/)
@@ -521,6 +530,7 @@ If your city isn't listed here, you should [[create a Campsite for your city|How
   - [Cork](https://www.facebook.com/groups/free.code.camp.cork.ireland/)
   - [Dublin](https://www.facebook.com/groups/free.code.camp.dublin/)
   - [Galway](https://www.facebook.com/groups/free.code.camp.galway/)
+  - [Sligo](https://www.facebook.com/groups/free.code.camp.sligo/)
   - [Waterford](https://www.facebook.com/groups/free.code.camp.waterford/)
 - Israel
   - [Haifa](https://www.facebook.com/groups/free.code.camp.Haifa/)
@@ -547,6 +557,7 @@ If your city isn't listed here, you should [[create a Campsite for your city|How
   - [Kingston](https://www.facebook.com/groups/free.code.camp.kingston.jamaica/)
   - [Montego Bay](https://www.facebook.com/groups/free.code.camp.montego.bay/)
 - Japan
+  - [Nagoya](https://www.facebook.com/groups/free.code.camp.nagoya/) 
   - [Osaka](https://www.facebook.com/groups/free.code.camp.osaka/)
   - [Sasebo](https://www.facebook.com/groups/free.code.camp.sasebo/)
   - [Tokyo](https://www.facebook.com/groups/free.code.camp.tokyo/)
@@ -574,11 +585,13 @@ If your city isn't listed here, you should [[create a Campsite for your city|How
 - Lebanon
   - [Beirut](https://www.facebook.com/groups/free.code.camp.beirut/)
 - Lesotho
-  - [Maseru](https://www.facebook.com/groups/free.code.camp.maseru/)   
-- Lithuania
-  - [Vilnius](https://www.facebook.com/groups/free.code.camp.vilnius.lt/)
+  - [Maseru](https://www.facebook.com/groups/free.code.camp.maseru/)
+- Liberia
+  - [Monrovia](https://www.facebook.com/groups/free.code.camp.monrovia.lr/)
 - Libya
   - [Tripoli](https://www.facebook.com/groups/free.code.camp.Tripoli.Libya/)
+- Lithuania
+  - [Vilnius](https://www.facebook.com/groups/free.code.camp.vilnius.lt/)
 - Luxembourg
   - [Luxembourg](https://www.facebook.com/groups/free.code.camp.luxembourg/) 
 - Macedonia
@@ -688,6 +701,7 @@ If your city isn't listed here, you should [[create a Campsite for your city|How
   - [Ondo](https://web.facebook.com/groups/free.code.camp.ondo/)
   - [Port Harcourt](https://www.facebook.com/groups/free.code.camp.port.harcourt/)
   - [Sokoto](https://www.facebook.com/groups/free.code.camp.sokoto/)
+  - [Zaki Biam](https://www.facebook.com/groups/free.code.camp.zakibiam/)
 - Northern Ireland
   - [Belfast](https://www.facebook.com/groups/free.code.camp.belfast.UK/) 
 - Norway
@@ -700,6 +714,7 @@ If your city isn't listed here, you should [[create a Campsite for your city|How
   - [Trondheim](https://www.facebook.com/groups/free.code.camp.trondheim/)
 - Oman
   - [Muscat](https://www.facebook.com/groups/free.code.camp.muscat/)
+  - [Sohar](https://www.facebook.com/groups/free.code.camp.sohar/)
 - Pakistan
   - [Bannu](https://www.facebook.com/groups/free.code.camp.bannu/) 
   - [Gujrat City](https://www.facebook.com/groups/free.code.camp.gujrat/)
@@ -792,6 +807,7 @@ If your city isn't listed here, you should [[create a Campsite for your city|How
   - [Barnaul](https://www.facebook.com/groups/free.code.camp.barnaul/)
   - [Belgorod](https://www.facebook.com/groups/free.code.camp.belgorod/)
   - [Blagoveshchensk](https://www.facebook.com/groups/free.code.camp.blagoveshchensk.amur.region/)
+  - [Cheboksary](https://www.facebook.com/groups/free.code.camp.cheboksary/)
   - [Cheljabinsk](https://www.facebook.com/groups/free.code.camp.cheljabinsk/)
   - [Cherepovets](https://www.facebook.com/groups/free.code.camp.cherepovets/)    
   - [Irkutsk](https://www.facebook.com/groups/free.code.camp.irkutsk/)
@@ -896,6 +912,8 @@ If your city isn't listed here, you should [[create a Campsite for your city|How
   - [Batticaloa](https://www.facebook.com/groups/free.code.camp.batticaloa/)
   - [Colombo](https://www.facebook.com/groups/free.code.camp.colombo/)
   - [Jaffna](https://www.facebook.com/groups/free.code.camp.jaffna/)
+- Sudan 
+  - [Khartoum](https://www.facebook.com/groups/Free.Code.Camp.Khartoum/)
 - Sweden
   - [Göteborg](https://www.facebook.com/groups/free.code.camp.goteborg/)
   - [Lund](https://www.facebook.com/groups/free.code.camp.lund/)
@@ -956,6 +974,7 @@ If your city isn't listed here, you should [[create a Campsite for your city|How
   - [Mykolaiv](https://www.facebook.com/groups/free.code.camp.mykolaiv/)
   - [Odessa](https://www.facebook.com/groups/free.code.camp.your.city.odessa.ukraine/)
   - [Rivne](https://www.facebook.com/groups/free.code.camp.rivne/)
+  - [Sumy](https://www.facebook.com/groups/free.code.camp.sumy)
   - [Ternopil](https://www.facebook.com/groups/free.code.camp.Ternopil.Ukraine/)
   - [Vinnitsa](https://www.facebook.com/groups/free.code.camp.vinnitsa/)
   - [Zaporozhye](https://www.facebook.com/groups/free.code.camp.zaporozhye/)
@@ -1027,6 +1046,7 @@ If your city isn't listed here, you should [[create a Campsite for your city|How
     - [Oakland](https://www.facebook.com/groups/free.code.camp.berkeley/)
     - [Orange County](https://www.facebook.com/groups/free.code.camp.orange.county/)
     - [Pasadena](https://www.facebook.com/groups/free.code.camp.pasadena.ca/)
+    - [Pleasant Hill](https://www.facebook.com/groups/free.code.camp.pleasantHill/)
     - [Redwood city](https://www.facebook.com/groups/free.code.camp.redwood.city/) 
     - [Riverside](https://www.facebook.com/groups/free.code.camp.riverside.ca/)
     - [Sacramento](https://www.facebook.com/groups/free.code.camp.sacramento/)
@@ -1114,6 +1134,7 @@ If your city isn't listed here, you should [[create a Campsite for your city|How
     - [Macomb](https://www.facebook.com/groups/free.code.camp.macomb.il/)
     - [Naperville](https://www.facebook.com/groups/free.code.camp.naperville)
     - [Peoria](https://www.facebook.com/groups/free.code.camp.Peoria/)
+    - [Rockford](https://www.facebook.com/groups/Free.Code.Camp.Rockford/)
     - [Sterling](https://www.facebook.com/groups/free.code.camp.Sterling.IL/)
     - [Quad Cities](https://www.facebook.com/groups/free.code.camp.quadcities/)
     - [Washington](https://www.facebook.com/groups/free.code.camp.Peoria/)
@@ -1144,6 +1165,7 @@ If your city isn't listed here, you should [[create a Campsite for your city|How
     - [Louisville](https://www.facebook.com/groups/free.code.camp.louisville/)
     - [Manchester](https://www.facebook.com/groups/free.code.camp.manchester.kentucky/)
     - [Paducah](https://www.facebook.com/groups/free.code.camp.paducah/)
+    - [Tollesboro](https://www.facebook.com/groups/847024098734877)
   - Louisiana
     - [Baton Rouge](https://www.facebook.com/groups/free.code.camp.baton.rouge.louisiana/)
     - [Lafayette](https://www.facebook.com/groups/free.code.camp.lafayette/)
@@ -1171,6 +1193,7 @@ If your city isn't listed here, you should [[create a Campsite for your city|How
     - [Lexington](https://www.facebook.com/groups/free.code.camp.lexington.ma/)
     - [Northampton](https://www.facebook.com/groups/free.code.camp.northampton.mass/)
     - [Pepperell](https://www.facebook.com/groups/free.code.camp.pepperell.ma/)
+    - [Worcester](https://www.facebook.com/groups/free.code.camp.worcester.ma/)
   - Michigan
     - [Ann Arbor](https://www.facebook.com/groups/free.code.camp.ann.arbor/)
     - [Big Rapids](https://www.facebook.com/groups/free.code.camp.bigrapids/)
@@ -1290,6 +1313,7 @@ If your city isn't listed here, you should [[create a Campsite for your city|How
     - [Oklahoma City](https://www.facebook.com/groups/free.code.camp.oklahoma.city/)
     - [Tulsa](https://www.facebook.com/groups/free.code.camp.tulsa/)
   - Oregon
+    - [Bend](https://www.facebook.com/groups/free.code.camp.bend.or/) 
     - [Corvallis](https://www.facebook.com/groups/free.code.camp.corvallis/)
     - [Eugene](https://www.facebook.com/groups/free.code.camp.eugene/)
     - [Medford](https://www.facebook.com/groups/free.code.camp.medford.oregon/)
@@ -1347,6 +1371,7 @@ If your city isn't listed here, you should [[create a Campsite for your city|How
     - [Provo](https://www.facebook.com/groups/free.code.camp.provo/)
     - [Salt Lake City](https://www.facebook.com/groups/free.code.camp.salt.lake.city/)
     - [St. George](https://www.facebook.com/groups/free.code.camp.st.george/)
+    - [Tooele](https://www.facebook.com/groups/free.code.camp.Tooele/)
   - Vermont
     - [Burlington](https://www.facebook.com/groups/1080815058603708/)
   - Virginia
@@ -1378,6 +1403,7 @@ If your city isn't listed here, you should [[create a Campsite for your city|How
     - [Olympia](https://www.facebook.com/groups/free.code.camp.olympia/)
     - [Port Angeles](https://www.facebook.com/groups/free.code.camp.port.angeles/)
     - [Port Orchard](https://www.facebook.com/groups/free.code.camp.port.orchard/)
+    - [Poulsbo](https://www.facebook.com/groups/free.code.camp.poulsbo.wa/)
     - [Redmond](https://www.facebook.com/groups/free.code.camp.redmond.wa/)
     - [Seattle](https://www.facebook.com/groups/free.code.camp.seattle/)
     - [Shelton](https://www.facebook.com/groups/free.code.camp.shelton/)
@@ -1387,6 +1413,7 @@ If your city isn't listed here, you should [[create a Campsite for your city|How
     - [Yakima](https://www.facebook.com/groups/free.code.camp.yakima.wa/) 
   - West Virginia
     - [Charleston](https://www.facebook.com/groups/free.code.camp.charleston.wv)
+    - [Huntington](https://www.facebook.com/groups/free.code.camp.huntington.wv/)
     - [Morgantown](https://www.facebook.com/groups/free.code.camp.morgantown/)
     - [Wheeling](https://www.facebook.com/groups/free.code.camp.wheeling.wv/)
   - Wisconsin
@@ -1413,6 +1440,7 @@ If your city isn't listed here, you should [[create a Campsite for your city|How
   - [Maracay](https://www.facebook.com/groups/free.code.camp.maracay)
   - [Maturin](https://www.facebook.com/free.code.camp.maturin/)
   - [Merida](https://www.facebook.com/groups/free.code.camp.merida.venezuela/)
+  - [Porlamar](https://www.facebook.com/groups/free.code.camp.porlamar/)
   - [Valencia](https://www.facebook.com/groups/free.code.camp.valencia.venezuela/)
   - [Valle de La Pascua](https://www.facebook.com/groups/free.code.camp.vlp/)
 - Vietnam
